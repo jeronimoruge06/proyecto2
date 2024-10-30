@@ -92,7 +92,6 @@ def nota_final() -> None:
             nota_f -= 1
         print(f'   {listado[idx][0]}         {listado[idx][1]}         {n1}     {n2}     {n3}     {ina}                {nota_f}')
 
-
 #hola
 opcion = ' '
 while opcion != '9':
